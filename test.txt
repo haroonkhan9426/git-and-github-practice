@@ -1,1 +1,3 @@
 feature-1 done
+feature-2 done
+feature-2 in progress
