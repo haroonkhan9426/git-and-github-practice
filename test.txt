@@ -5,4 +5,5 @@ version_2
 	feature-2 done
 	feature-3 done
 
-version-3 
+version-3
+	feature-4 done
