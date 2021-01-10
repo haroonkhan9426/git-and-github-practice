@@ -6,5 +6,5 @@ version_2
 	feature-3 done
 
 version-3
-	feature-4 done
-	feature-5 done
+	fea-4 done
+  feature-5 done
